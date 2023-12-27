@@ -10,7 +10,7 @@ header {
 nav {
     text-align: center;
     word-spacing: 30px;
-    Padding: 10px;
+    Padding: 7px;
     text-emphasis: none;
  }
  /*creating the two-column layout*/
@@ -31,7 +31,7 @@ nav {
  }
  /*profile image and heading style*/
  .profile img {
-    width: 120px;
+    width: 100px;
     display: block;
     margin-left: 20;
     margin-right: 0;
@@ -39,3 +39,18 @@ nav {
  .profile h1 {
     text-align: center;
  }
+ /*footer_style*/
+footer {
+   text-align: center;
+   word-spacing: 2px;
+   padding: 10px;
+   background-color: #f5f5dc
+   font-family: Helvetica;
+   
+}
+/*navigation bar button style*/
+nav a {
+   color: #000000;
+   text-decoration: none;
+   font-size: larger;
+}
